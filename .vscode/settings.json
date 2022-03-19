@@ -1,0 +1,6 @@
+{
+	"editor.insertSpaces": false,
+	"editor.mouseWheelZoom": true,
+	"editor.formatOnSave": true,
+	"files.autoSave": "afterDelay"
+}

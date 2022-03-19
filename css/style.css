@@ -1,0 +1,19 @@
+header {
+  background-color: #a11212;
+}
+
+h1 {
+  color: #381bbd;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
+
+body h1 {
+  color: green;
+}
